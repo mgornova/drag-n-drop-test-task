@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/drag-n-drop-test-task/static/css/main.97fdcebe.chunk.css",
+    "main.js": "/drag-n-drop-test-task/static/js/main.dde2a19a.chunk.js",
+    "main.js.map": "/drag-n-drop-test-task/static/js/main.dde2a19a.chunk.js.map",
+    "runtime-main.js": "/drag-n-drop-test-task/static/js/runtime-main.2d26a752.js",
+    "runtime-main.js.map": "/drag-n-drop-test-task/static/js/runtime-main.2d26a752.js.map",
+    "static/js/2.22c88b24.chunk.js": "/drag-n-drop-test-task/static/js/2.22c88b24.chunk.js",
+    "static/js/2.22c88b24.chunk.js.map": "/drag-n-drop-test-task/static/js/2.22c88b24.chunk.js.map",
+    "index.html": "/drag-n-drop-test-task/index.html",
+    "precache-manifest.8d9319f4718761af1db4bb82b2bad369.js": "/drag-n-drop-test-task/precache-manifest.8d9319f4718761af1db4bb82b2bad369.js",
+    "service-worker.js": "/drag-n-drop-test-task/service-worker.js",
+    "static/css/main.97fdcebe.chunk.css.map": "/drag-n-drop-test-task/static/css/main.97fdcebe.chunk.css.map",
+    "static/js/2.22c88b24.chunk.js.LICENSE.txt": "/drag-n-drop-test-task/static/js/2.22c88b24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d26a752.js",
+    "static/js/2.22c88b24.chunk.js",
+    "static/css/main.97fdcebe.chunk.css",
+    "static/js/main.dde2a19a.chunk.js"
+  ]
+}
